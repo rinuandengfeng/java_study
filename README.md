@@ -1,7 +1,7 @@
 # java学习代码&&作业代码
 
 ---
-1. homework1  
+## 1. homework1  
 - FabrenheitChangeCelsius  
 华氏温度转化为摄氏度，公式为：c = 5 / 9 *（f - 32)  
 
