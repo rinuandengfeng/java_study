@@ -1,4 +1,4 @@
-package lzw.homework1;
+package com.lzw.homework1;
 
 import java.util.Scanner;
 

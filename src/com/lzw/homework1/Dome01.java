@@ -1,4 +1,4 @@
-package lzw.homework1;
+package com.lzw.homework1;
 
 public class Dome01 {
     public static void main(String[] args) {

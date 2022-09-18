@@ -1,4 +1,4 @@
-package lzw.homework1;
+package com.lzw.homework1;
 
 import java.util.Scanner;
 
@@ -16,7 +16,5 @@ public class CylinderVolume {
         Double pi = Math.PI;
         Double v = pi * h * r_2;
         System.out.printf("圆柱的体积为:%.2f", v);
-
-
     }
 }
