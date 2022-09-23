@@ -18,6 +18,7 @@
     - r ** 2: 圆柱的平方
 - CalcuateExpression  计算一元二次方程的根
 计算表达式，求函数的根的表达式。
+----
 ## homework2  
 - CalcuateMonth 使用switch结构计算每个月的天数。
   - 闰年计算公式:
@@ -31,3 +32,17 @@
   - 70-79分为Ｃ级；
   - 60-69分为D级；
   - 0-59分为E级
+----
+## homework3
+- MultiplicationTable 打印九九乘法表
+
+- GuessNum  猜随机数  
+随机产生一个[10,50]的数，然后和用户输入的数进行比较,
+猜对为止。
+- PromeNums 打印前50个素数  
+使用两层for循环
+- DecimallismChangeBinary  十进制转化为二进制
+
+- CalcuateValue  用户输入5个数存放到数组中,然后计算出
+数组中打最大值、最小值、和、平均值。
+
