@@ -2,7 +2,7 @@ package com.lzw.homework4;
 
 import java.util.Arrays;
 
-public class SumArrary {
+public class SumArray {
     public static void main(String[] args) {
         int[] a = {2, 3, 4};
         int[] b = {3, 4, 5, 8};
